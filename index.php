@@ -12,7 +12,7 @@ body {
 	font: 400 10px "Lato", sans-serif;
 	text-align: center;
 }
-.header {
+header {
 	width: 200%;
 	height: 309px;
 	background: lightpink;
