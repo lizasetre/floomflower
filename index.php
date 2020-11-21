@@ -8,7 +8,7 @@ html {
 }
 body {
 	height: 200%;
-	background-color: #9387ab;
+	background-color: #FFEC9E;
 	font: 400 10px "Lato", sans-serif;
 	text-align: center;
 }
