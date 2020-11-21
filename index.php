@@ -57,7 +57,7 @@ svg{
       </head>
 		</style>
     <div class="header">
-  <h1> F L O O M </h1>
+  <h1> WELCOME TO FLOOM </h1>
     <ul>
    <li>Shop</li><li>Occasion</li><li>Same Day Delivery</li><li>Get Free Delivery</li><li>Want to sell on floom?</li><li>merch</li>
    </ul>
